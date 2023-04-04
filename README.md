@@ -1,2 +1,3 @@
 # Tareas-ICI-Fundamentos-de-programacion-
-mis trayectorias
+Mi trayectoria en la U
+;3
